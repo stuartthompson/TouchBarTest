@@ -1,0 +1,5 @@
+# Git ignore file
+# This file contains patterns instructing git to ignore certain files and folders.
+
+# OSX DS Store (Finder caches)
+.DS_Store
